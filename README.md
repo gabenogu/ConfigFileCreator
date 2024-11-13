@@ -21,10 +21,12 @@ Users must take note of the locaiton if they are to use it for a YCSB benchmark
 
     git clone https://github.com/gabenogu/ConfigFileCreator.git
 
+
 ## Install args4j
 1. go to https://repo1.maven.org/maven2/args4j/args4j/2.33/
 2. download 'args4j-2.33.jar'
-3. 
+
+
 ## Set args4j as a dependency
 1. In your java project go to File -> Project Structure -> Modules -> Dependencies
 2. Click the + button, then click Jars and directories
@@ -34,12 +36,14 @@ Users must take note of the locaiton if they are to use it for a YCSB benchmark
 Once this is all done it should run as intended.
 If you are having issues running the CLI version in the terminal this may help you:
 
+
 ## Configure main file
 1. on the top of your Intellij IDE, under Current File, select 'Edit Configurations'
 2. click 'Add new run configuration'
 3. click 'Application'
 4. in the greyed out seciton of 'Main Class', select the icon to the right then select Main
 5. Click apply and ok
+
 
 ## running the CLI through Intellij
 Once you have the main class configured, you can run the cli through Intellij
