@@ -19,7 +19,7 @@ Users must take note of the locaiton if they are to use it for a YCSB benchmark
 
 2. Fork the repository or clone it directly
 
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/gabenogu/ConfigFileCreator.git
 
 ## Install args4j
 1. go to https://repo1.maven.org/maven2/args4j/args4j/2.33/
