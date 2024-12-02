@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fishm\\source\\repos\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA2AC165-FDE2-4653-80E0-415FB8DC718C}|Project2\\Project2.vcxproj|C:\\Users\\fishm\\source\\repos\\Project2\\Project2\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BA2AC165-FDE2-4653-80E0-415FB8DC718C}|Project2\\Project2.vcxproj|solutionrelative:Project2\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\fishm\\source\\repos\\Project2\\Project2\\main.asm",
+              "RelativeDocumentMoniker": "Project2\\main.asm",
+              "ToolTip": "C:\\Users\\fishm\\source\\repos\\Project2\\Project2\\main.asm",
+              "RelativeToolTip": "Project2\\main.asm",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-03T22:42:15.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
